@@ -55,7 +55,7 @@ class HashTableLinearProbing:
 
 
 def menu():
-    print("\nTelephone Book Database")
+    print("\n------------------Telephone Book Database--------------------")
     print("1. Initialize Separate Chaining Table")
     print("2. Initialize Linear Probing Table")
     print("3. Insert Phone Number into Separate Chaining Table")
