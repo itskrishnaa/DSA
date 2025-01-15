@@ -1,3 +1,4 @@
+#Practical 1: HashTable with Linear Probing
 class HashTableSeparateChaining:
     def __init__(self, size):
         self.size = size
