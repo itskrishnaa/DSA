@@ -1,3 +1,4 @@
+#Pratical 1: Hashtable with Quadratic Probing and Double Hashing
 class HashTable:
     def __init__(self, size):
         self.size = size
