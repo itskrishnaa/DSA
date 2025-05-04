@@ -1,5 +1,5 @@
 
-#Practical No 4: Set operations
+#Practical No 4: Set operation
 
 def take_input():
     set1 = set()
